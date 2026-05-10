@@ -1,0 +1,10 @@
+yolo-env/
+runs/
+__pycache__/
+*.pyc
+*.pt
+*.onnx
+bus.jpg
+output.avi
+*.egg-info/
+.eggs/
