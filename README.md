@@ -1,4 +1,5 @@
 # YOLO11n Object Detection on Raspberry Pi 5
+date:10/05/2026
 
 An real-time object detection system built for Raspberry Pi 5 using YOLO11n, designed as the foundation for an **AI-powered assistive glasses system for visually impaired people**.
 
